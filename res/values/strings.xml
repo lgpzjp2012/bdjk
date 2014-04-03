@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">监控平台</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_index">IndexActivity</string>
+    <string name="waiting">请等待...</string>
+    <string name="loginTitle">用户登录</string>
+    <string name="username">用户名：</string>
+    <string name="userpasswd">密    码：</string>
+    <string name="jzmm">记住密码</string>
+    <string name="exitButton">退出</string>
+    <string name="loginButton">登录</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="strZhuxiao">注销</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="textCarinfo">车辆基本信息</string>
+    <string name="carNo">档案编号：</string>
+    <string name="model">监控方式：</string>
+    <string name="type">监控类型：</string>
+    <string name="ssdw">所属单位：</string>
+    <string name="groupName">所属组名：</string>
+    <string name="speedLimit">车辆限速：</string>
+    <string name="status">车辆状态：</string>
+    <string name="comment">更多描述：</string>
+    <string name="textDate">日期：</string>
+    <string name="textStart">开始时间：</string>
+    <string name="textEnd">结束时间：</string>
+    <string name="btShech">查询</string>
+    <string name="username_txt">用户名</string>
+    <string name="password_txt">密码</string>
+
+</resources>
